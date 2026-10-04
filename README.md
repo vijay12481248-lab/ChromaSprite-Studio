@@ -31,10 +31,10 @@ A video can look great in motion and still contain waiting frames, bad transitio
 
 <p align="center">
   <a href="docs/images/editor.png">
-    <img src="docs/images/editor.png" alt="ChromaSprite Studio editor showing a cleaned character on transparency, background controls, and the frame curation timeline" width="1200">
+    <img src="docs/images/editor-showcase.png" alt="Styled ChromaSprite Studio editor showcase with lime lighting, a cleaned character, and frame curation timeline" width="1200">
   </a>
 </p>
-<p align="center"><sub>Actual editor · Background cleanup and frame curation · Click to view full size</sub></p>
+<p align="center"><sub>Enhanced editor showcase · Click for the original screenshot</sub></p>
 
 ### Clean Backgrounds
 
@@ -48,7 +48,7 @@ Inspect your animation, remove unwanted frames, and preview the motion before yo
   <summary>See the video import workspace</summary>
   <p align="center">
     <a href="docs/images/import.png">
-      <img src="docs/images/import.png" alt="ChromaSprite Studio import workspace with the Choose video control before a source video is loaded" width="1200">
+      <img src="docs/images/import-showcase.png" alt="Styled ChromaSprite Studio import showcase with the Choose video workspace and lime accents" width="1200">
     </a>
   </p>
 </details>
