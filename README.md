@@ -1,53 +1,85 @@
-# ChromaSprite Studio
+<p align="center">
+  <img src="docs/images/hero-banner.png" alt="ChromaSprite Studio promotional banner showing the video-to-sprite workflow" width="1200">
+</p>
 
-**Turn animation videos into clean, game-ready sprite sheets.**
+<h1 align="center">CHROMASPRITE STUDIO</h1>
 
-ChromaSprite Studio is a desktop tool for game creators who want to transform animation videos into usable 2D game assets.
+<p align="center"><strong>Turn animation videos into clean, game-ready sprite sheets.</strong></p>
 
-### Video → Clean → Curate → Export
+<p align="center">
+  <a href="https://spriritualbeing.itch.io/chromasprite-studio">
+    <img src="docs/images/download-cta.svg" alt="Download ChromaSprite Studio on itch.io" width="420">
+  </a>
+  <br>
+  Windows desktop · Early Access
+</p>
 
-- Background removal
-- Frame-by-frame cleanup
-- Animation range editing
-- Remove & restore unwanted frames
-- Animation preview
-- Transparent PNG export
-- Sprite sheet generation
+<h3 align="center">Video → Clean → Curate → Export</h3>
 
-## Download ChromaSprite Studio
+<!-- When a real recording is available, uncomment this block and remove the note below.
+<p align="center">
+  <img src="docs/media/workflow-demo.gif" alt="Import a video, clean its background, curate frames, and export a sprite sheet in ChromaSprite Studio" width="1000">
+</p>
+-->
+<p align="center"><em>Product workflow GIF coming soon.</em></p>
 
-### ➜ [Download on itch.io](https://spriritualbeing.itch.io/chromasprite-studio)
+## Great animation. Messy frames.
 
-ChromaSprite Studio is currently available for Windows in Early Access.
+A video can look great in motion and still contain waiting frames, bad transitions, or an unwanted ending. Clean up the background and keep the frames that belong in your game.
+
+**Keep the good motion. Remove the rest.**
+
+<!-- When a genuine editor capture is available, uncomment this block and remove the note below.
+<p align="center">
+  <img src="docs/images/editor.png" alt="ChromaSprite Studio editor with animation preview and frame timeline" width="1000">
+</p>
+-->
+<p align="center"><em>Actual editor screenshot coming soon.</em></p>
+
+### Clean Backgrounds
+
+Remove unwanted backgrounds and refine frames before export.
+
+### Frame-by-Frame Control
+
+Inspect your animation, remove unwanted frames, and preview the motion before you export.
+
+<!-- When an actual exported sprite sheet is available, uncomment this block and remove the note below.
+<p align="center">
+  <img src="docs/images/sprite-sheet.png" alt="Sprite sheet exported from ChromaSprite Studio, showing curated animation frames" width="1000">
+</p>
+-->
+<p align="center"><em>Exported sprite sheet example coming soon.</em></p>
+
+### Export Game-Ready Assets
+
+Export transparent PNG frames and sprite sheets for your 2D game workflow.
+
+<p align="center"><strong>Godot · Unity · 2D Games · Indie Developers</strong></p>
+<p align="center">For game developers, 2D artists, and AI animation creators.</p>
 
 ---
 
-## Built for
+<h2 align="center">Early Access</h2>
 
-Godot • Unity • 2D Games • Indie Developers • AI Animation Workflows
+<p align="center">Bring your animation. Clean it. Curate it. Export it.</p>
 
----
+<p align="center">
+  <a href="https://spriritualbeing.itch.io/chromasprite-studio">
+    <img src="docs/images/download-cta.svg" alt="Download ChromaSprite Studio on itch.io" width="420">
+  </a>
+  <br>
+  <a href="https://spriritualbeing.itch.io/chromasprite-studio">Download on itch.io →</a>
+</p>
 
-## Feedback & Issues
+### Bug Reports
 
-Found a bug or have a feature request?
+[Report a bug](https://github.com/vijay12481248-lab/ChromaSprite-Studio/issues/new?title=Bug%3A%20). Include the ChromaSprite Studio version, Windows version, video format, steps to reproduce, and expected versus actual result. Screenshots or a short recording help.
 
-Please open a GitHub Issue and include:
+### Feature Requests
 
-- ChromaSprite version
-- Windows version
-- Source video format
-- Steps to reproduce
-- Expected result
-- Actual result
-- Screenshot/video if possible
+[Request a feature](https://github.com/vijay12481248-lab/ChromaSprite-Studio/issues/new?title=Feature%3A%20). Describe the problem, your current workflow, and how the feature would help. Mention your game engine if relevant.
 
----
+### Early Access Notice
 
-## Support Development
-
-ChromaSprite Studio is currently available as a free Early Access download.
-
-If the tool saves you time, you can support development on itch.io.
-
-### [Get ChromaSprite Studio →](https://spriritualbeing.itch.io/chromasprite-studio)
+ChromaSprite Studio is currently in Early Access for Windows. Features and workflows may change as development continues. Get the latest available build from the [official itch.io page](https://spriritualbeing.itch.io/chromasprite-studio).

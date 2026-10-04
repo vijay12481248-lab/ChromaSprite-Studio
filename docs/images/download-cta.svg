@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="840" height="128" viewBox="0 0 840 128" role="img" aria-labelledby="title">
+  <title id="title">Download ChromaSprite Studio on itch.io</title>
+  <rect x="1" y="1" width="838" height="126" rx="18" fill="#C8FF43" stroke="#29372F" stroke-width="2"/>
+  <path d="M57 36v36m-13-13 13 13 13-13M38 81v12h38V81" fill="none" stroke="#0B0F0D" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="105" y="58" fill="#0B0F0D" font-family="Arial, Helvetica, sans-serif" font-size="30" font-weight="700">Download ChromaSprite Studio</text>
+  <text x="105" y="91" fill="#0B0F0D" font-family="Arial, Helvetica, sans-serif" font-size="22">Available on itch.io →</text>
+</svg>
