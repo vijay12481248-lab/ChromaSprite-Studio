@@ -29,12 +29,12 @@ A video can look great in motion and still contain waiting frames, bad transitio
 
 **Keep the good motion. Remove the rest.**
 
-<!-- When a genuine editor capture is available, uncomment this block and remove the note below.
 <p align="center">
-  <img src="docs/images/editor.png" alt="ChromaSprite Studio editor with animation preview and frame timeline" width="1000">
+  <a href="docs/images/editor.png">
+    <img src="docs/images/editor.png" alt="ChromaSprite Studio editor showing a cleaned character on transparency, background controls, and the frame curation timeline" width="1200">
+  </a>
 </p>
--->
-<p align="center"><em>Actual editor screenshot coming soon.</em></p>
+<p align="center"><sub>Actual editor · Background cleanup and frame curation · Click to view full size</sub></p>
 
 ### Clean Backgrounds
 
@@ -43,6 +43,15 @@ Remove unwanted backgrounds and refine frames before export.
 ### Frame-by-Frame Control
 
 Inspect your animation, remove unwanted frames, and preview the motion before you export.
+
+<details>
+  <summary>See the video import workspace</summary>
+  <p align="center">
+    <a href="docs/images/import.png">
+      <img src="docs/images/import.png" alt="ChromaSprite Studio import workspace with the Choose video control before a source video is loaded" width="1200">
+    </a>
+  </p>
+</details>
 
 <!-- When an actual exported sprite sheet is available, uncomment this block and remove the note below.
 <p align="center">
