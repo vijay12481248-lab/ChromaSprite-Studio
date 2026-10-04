@@ -29,12 +29,25 @@ A video can look great in motion and still contain waiting frames, bad transitio
 
 **Keep the good motion. Remove the rest.**
 
-<p align="center">
-  <a href="docs/images/editor.png">
-    <img src="docs/images/editor-showcase.png" alt="Styled ChromaSprite Studio editor showcase with lime lighting, a cleaned character, and frame curation timeline" width="1200">
-  </a>
-</p>
-<p align="center"><sub>Enhanced editor showcase · Click for the original screenshot</sub></p>
+<table>
+  <tr>
+    <th align="center">Start with your animation</th>
+    <th align="center">Clean backgrounds. Keep the motion.</th>
+  </tr>
+  <tr>
+    <td width="50%" align="center">
+      <a href="docs/images/import-showcase.png">
+        <img src="docs/images/import-showcase.png" alt="Styled ChromaSprite Studio import showcase with the Choose video workspace and lime accents" width="600">
+      </a>
+    </td>
+    <td width="50%" align="center">
+      <a href="docs/images/editor-showcase.png">
+        <img src="docs/images/editor-showcase.png" alt="Styled ChromaSprite Studio editor showcase with lime lighting, a cleaned character, and frame curation timeline" width="600">
+      </a>
+    </td>
+  </tr>
+</table>
+<p align="center"><sub>Enhanced showcases · Click either image to view full size · Original screenshots: <a href="docs/images/import.png">Import</a> / <a href="docs/images/editor.png">Editor</a></sub></p>
 
 ### Clean Backgrounds
 
@@ -43,15 +56,6 @@ Remove unwanted backgrounds and refine frames before export.
 ### Frame-by-Frame Control
 
 Inspect your animation, remove unwanted frames, and preview the motion before you export.
-
-<details>
-  <summary>See the video import workspace</summary>
-  <p align="center">
-    <a href="docs/images/import.png">
-      <img src="docs/images/import-showcase.png" alt="Styled ChromaSprite Studio import showcase with the Choose video workspace and lime accents" width="1200">
-    </a>
-  </p>
-</details>
 
 <!-- When an actual exported sprite sheet is available, uncomment this block and remove the note below.
 <p align="center">
