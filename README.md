@@ -1,10 +1,10 @@
-<p align="center">
-  <img src="docs/images/hero-banner.png" alt="ChromaSprite Studio promotional banner showing the video-to-sprite workflow" width="1200">
-</p>
-
 <h1 align="center">CHROMASPRITE STUDIO</h1>
 
 <p align="center"><strong>Turn animation videos into clean, game-ready sprite sheets.</strong></p>
+
+<p align="center">
+  <img src="docs/images/hero-banner.png" alt="ChromaSprite Studio promotional banner showing the video-to-sprite workflow" width="1200">
+</p>
 
 <p align="center">
   <a href="https://spriritualbeing.itch.io/chromasprite-studio">
