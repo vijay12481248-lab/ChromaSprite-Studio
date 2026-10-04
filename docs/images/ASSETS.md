@@ -1,6 +1,6 @@
 # README visual assets
 
-The hero banner is existing promotional artwork copied from the repository's wide PNG. It is not an actual editor screenshot. The download CTA is a local SVG using the product's lime accent.
+The README hero, docs/images/hero-workflow.png, is a refined promotional illustration derived from the original hero-banner.png. It removes the repeated title and tagline, enlarges the character, and simplifies decorative effects. The illustrated sprite grid is not an actual exported asset. The download CTA is a local SVG using the product's lime accent.
 
 Two authentic editor screenshots supplied by the product owner are now included, without alterations:
 
@@ -14,7 +14,7 @@ Two authentic product assets are still needed:
 | docs/media/workflow-demo.gif | A real recording of importing a video, cleaning its background, curating frames, and exporting. Use a short, readable loop. |
 | docs/images/sprite-sheet.png | A sprite sheet actually exported from ChromaSprite Studio, using artwork you have permission to showcase. |
 
-README.md contains commented image blocks at each intended position. Once each asset is added, uncomment its image block and remove its corresponding “coming soon” note. Do not substitute generated UI artwork for real captures or exported output.
+README.md contains commented image blocks at each intended position. Once each asset is added, uncomment its image block. Missing assets are tracked here rather than announced in the public README. Do not substitute generated UI artwork for real captures or exported output.
 
 ## Enhanced showcase graphics
 

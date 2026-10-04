@@ -3,7 +3,7 @@
 <p align="center"><strong>Turn animation videos into clean, game-ready sprite sheets.</strong></p>
 
 <p align="center">
-  <img src="docs/images/hero-banner.png" alt="ChromaSprite Studio promotional banner showing the video-to-sprite workflow" width="1200">
+  <img src="docs/images/hero-workflow.png" alt="ChromaSprite Studio promotional banner showing the video-to-sprite workflow" width="1200">
 </p>
 
 <p align="center">
@@ -16,12 +16,11 @@
 
 <h3 align="center">Video → Clean → Curate → Export</h3>
 
-<!-- When a real recording is available, uncomment this block and remove the note below.
+<!-- Uncomment this block when a real workflow recording is available.
 <p align="center">
   <img src="docs/media/workflow-demo.gif" alt="Import a video, clean its background, curate frames, and export a sprite sheet in ChromaSprite Studio" width="1000">
 </p>
 -->
-<p align="center"><em>Product workflow GIF coming soon.</em></p>
 
 ## Great animation. Messy frames.
 
@@ -33,7 +32,7 @@ A video can look great in motion and still contain waiting frames, bad transitio
   <a href="docs/images/import-showcase.png"><img src="docs/images/import-showcase.png" alt="Styled ChromaSprite Studio import showcase with the Choose video workspace and lime accents" width="48%"></a>
   <a href="docs/images/editor-showcase.png"><img src="docs/images/editor-showcase.png" alt="Styled ChromaSprite Studio editor showcase with lime lighting, a cleaned character, and frame curation timeline" width="48%"></a>
 </p>
-<p align="center"><sub>Enhanced showcases · Click either image to view full size · Original screenshots: <a href="docs/images/import.png">Import</a> / <a href="docs/images/editor.png">Editor</a></sub></p>
+<p align="center"><sub>Enhanced editor views · Click to enlarge · Original captures: <a href="docs/images/import.png">Import</a> / <a href="docs/images/editor.png">Editor</a></sub></p>
 
 ### Clean Backgrounds
 
@@ -43,12 +42,11 @@ Remove unwanted backgrounds and refine frames before export.
 
 Inspect your animation, remove unwanted frames, and preview the motion before you export.
 
-<!-- When an actual exported sprite sheet is available, uncomment this block and remove the note below.
+<!-- Uncomment this block when an actual exported sprite sheet is available.
 <p align="center">
   <img src="docs/images/sprite-sheet.png" alt="Sprite sheet exported from ChromaSprite Studio, showing curated animation frames" width="1000">
 </p>
 -->
-<p align="center"><em>Exported sprite sheet example coming soon.</em></p>
 
 ### Export Game-Ready Assets
 
