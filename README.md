@@ -29,24 +29,10 @@ A video can look great in motion and still contain waiting frames, bad transitio
 
 **Keep the good motion. Remove the rest.**
 
-<table>
-  <tr>
-    <th align="center">Start with your animation</th>
-    <th align="center">Clean backgrounds. Keep the motion.</th>
-  </tr>
-  <tr>
-    <td width="50%" align="center">
-      <a href="docs/images/import-showcase.png">
-        <img src="docs/images/import-showcase.png" alt="Styled ChromaSprite Studio import showcase with the Choose video workspace and lime accents" width="600">
-      </a>
-    </td>
-    <td width="50%" align="center">
-      <a href="docs/images/editor-showcase.png">
-        <img src="docs/images/editor-showcase.png" alt="Styled ChromaSprite Studio editor showcase with lime lighting, a cleaned character, and frame curation timeline" width="600">
-      </a>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <a href="docs/images/import-showcase.png"><img src="docs/images/import-showcase.png" alt="Styled ChromaSprite Studio import showcase with the Choose video workspace and lime accents" width="48%"></a>
+  <a href="docs/images/editor-showcase.png"><img src="docs/images/editor-showcase.png" alt="Styled ChromaSprite Studio editor showcase with lime lighting, a cleaned character, and frame curation timeline" width="48%"></a>
+</p>
 <p align="center"><sub>Enhanced showcases · Click either image to view full size · Original screenshots: <a href="docs/images/import.png">Import</a> / <a href="docs/images/editor.png">Editor</a></sub></p>
 
 ### Clean Backgrounds
